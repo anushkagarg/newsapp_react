@@ -29,7 +29,7 @@ const Navbar = (props) => {
                   {" "}
                   <a class="nav-link" href="#">
                     World
-                  </a>{sources.name}
+                  </a>{" "}
                 </li>
                 <li class="nav-item">
                   {" "}
