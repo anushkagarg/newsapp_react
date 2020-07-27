@@ -39,7 +39,7 @@ fetch(url.href)
     return (
       <div className="App">
         <Header />
-        
+        <Navbar />
         {!isLoading && (
           <>
             <section class="banner-sec">
